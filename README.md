@@ -1,3 +1,3 @@
 # pyRightPrice
 
-Jeu du juste prix basique
+Jeu du juste prix basique.
